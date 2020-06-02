@@ -1,1 +1,1 @@
-# JavaScipt-Algorithms-and-Data-Structures
+# JavaScript Algorithms And Data Structures #
