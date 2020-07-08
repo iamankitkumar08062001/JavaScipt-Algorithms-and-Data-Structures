@@ -1,4 +1,4 @@
-# Data Structures #s
+# Data Structures #
 
 The following are the Data Structures I implemented:-
 
